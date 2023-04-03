@@ -1,0 +1,24 @@
+2023-04-03 03:00:54.505502 - Initialized conversion of CBT834
+2023-04-03 03:00:54.678700 - Received CBT.V504.FILE834.PDS from FILE834.XMI 
+2023-04-03 03:00:54.680874 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:00:54.681897 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/$$NOTE01
+2023-04-03 03:00:54.682959 - Found $$NOTE02.txt (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/$$NOTE02
+2023-04-03 03:00:54.683878 - Found $DOC.txt (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/$DOC
+2023-04-03 03:00:54.684793 - Found #TST.txt (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/#TST
+2023-04-03 03:00:54.685852 - Found @FILE834.txt (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/@FILE834
+2023-04-03 03:00:54.686889 - Found COMMENT.rexx (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/COMMENT
+2023-04-03 03:00:54.687849 - Found DELDUP.rexx (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/DELDUP
+2023-04-03 03:00:54.688785 - Found EXTRDISP.rexx (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/EXTRDISP
+2023-04-03 03:00:54.689667 - Found GDGALLOC.rexx (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/GDGALLOC
+2023-04-03 03:00:54.690548 - Found LIST#UG.txt (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/LIST#UG
+2023-04-03 03:00:54.691459 - Found MARK.rexx (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/MARK
+2023-04-03 03:00:54.692335 - Found MARKC.rexx (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/MARKC
+2023-04-03 03:00:54.693203 - Found MIGRATE.rexx (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/MIGRATE
+2023-04-03 03:00:54.694095 - Found MIRG#UG.txt (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/MIRG#UG
+2023-04-03 03:00:54.694107 - Found OLD834.bin containing application/octet-stream, moved to PDS/OLD834
+2023-04-03 03:00:54.695935 - Found QDS.rexx (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/QDS
+2023-04-03 03:00:54.702110 - Found SAMPLES.xmi (application/xmit) in CBT.V504.FILE834.PDS
+2023-04-03 03:00:54.706381   - Received to CBT834/SAMPLES.FILE834
+2023-04-03 03:00:54.707431 - Found SETREPL.txt (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/SETREPL
+2023-04-03 03:00:54.708291 - Found VIEWPOOL.rexx (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/VIEWPOOL
+2023-04-03 03:00:54.709137 - Found WHATCHA.rexx (text/plain) in CBT.V504.FILE834.PDS, moved to PDS/WHATCHA
