@@ -1,25 +1,25 @@
-2025-04-13 23:17:02.600948 - Received CBT.V508.FILE834.PDS from FILE834.XMI 
-2025-04-13 23:17:02.602369 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/$$$#DATE
-2025-04-13 23:17:02.602477 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/$$NOTE01
-2025-04-13 23:17:02.602546 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/$$NOTE02
-2025-04-13 23:17:02.602607 - Found $DOC.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/$DOC
-2025-04-13 23:17:02.602668 - Found #TST.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/#TST
-2025-04-13 23:17:02.602736 - Found @FILE834.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/@FILE834
-2025-04-13 23:17:02.602844 - Found COMMENT.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/COMMENT
-2025-04-13 23:17:02.602912 - Found DELDUP.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/DELDUP
-2025-04-13 23:17:02.602996 - Found EXTRDISP.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/EXTRDISP
-2025-04-13 23:17:02.603089 - Found GDGALLOC.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/GDGALLOC
-2025-04-13 23:17:02.603152 - Found LIST#UG.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/LIST#UG
-2025-04-13 23:17:02.603217 - Found MARK.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/MARK
-2025-04-13 23:17:02.603278 - Found MARKC.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/MARKC
-2025-04-13 23:17:02.603348 - Found MIGRATE.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/MIGRATE
-2025-04-13 23:17:02.603409 - Found MIRG#UG.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/MIRG#UG
-2025-04-13 23:17:02.603503 - Found OLD834.bin (application/octet-stream) in CBT.V508.FILE834.PDS, moved to PDS/OLD834
-2025-04-13 23:17:02.603583 - Found QDS.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/QDS
-2025-04-13 23:17:02.603654 - Found SAMPLES.xmi (application/xmit) in CBT.V508.FILE834.PDS, moved to PDS/SAMPLES.xmi
-2025-04-13 23:17:02.610594 - Received SBGOLOB.SAMPLES.FILE834 from SAMPLES.xmi 
-2025-04-13 23:17:02.611029 - Found DSLIST.bin (application/octet-stream) in SBGOLOB.SAMPLES.FILE834, moved to SAMPLES/DSLIST
-2025-04-13 23:17:02.611104 - Found DSLIST2.bin (application/octet-stream) in SBGOLOB.SAMPLES.FILE834, moved to SAMPLES/DSLIST2
-2025-04-13 23:17:02.611302 - Found SETREPL.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/SETREPL
-2025-04-13 23:17:02.611369 - Found VIEWPOOL.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/VIEWPOOL
-2025-04-13 23:17:02.611433 - Found WHATCHA.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/WHATCHA
+2025-04-15 05:57:40.866050 - Received CBT.V508.FILE834.PDS from FILE834.XMI 
+2025-04-15 05:57:40.867580 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:57:40.868094 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/$$NOTE01
+2025-04-15 05:57:40.868421 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/$$NOTE02
+2025-04-15 05:57:40.868721 - Found $DOC.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/$DOC
+2025-04-15 05:57:40.869012 - Found #TST.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/#TST
+2025-04-15 05:57:40.869063 - Found @FILE834.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/@FILE834
+2025-04-15 05:57:40.869231 - Found COMMENT.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/COMMENT
+2025-04-15 05:57:40.869383 - Found DELDUP.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/DELDUP
+2025-04-15 05:57:40.869532 - Found EXTRDISP.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/EXTRDISP
+2025-04-15 05:57:40.869745 - Found GDGALLOC.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/GDGALLOC
+2025-04-15 05:57:40.869903 - Found LIST#UG.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/LIST#UG
+2025-04-15 05:57:40.870099 - Found MARK.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/MARK
+2025-04-15 05:57:40.870275 - Found MARKC.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/MARKC
+2025-04-15 05:57:40.870596 - Found MIGRATE.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/MIGRATE
+2025-04-15 05:57:40.870777 - Found MIRG#UG.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/MIRG#UG
+2025-04-15 05:57:40.871354 - Found OLD834.bin (application/octet-stream) in CBT.V508.FILE834.PDS, moved to PDS/OLD834
+2025-04-15 05:57:40.871660 - Found QDS.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/QDS
+2025-04-15 05:57:40.871819 - Found SAMPLES.xmi (application/xmit) in CBT.V508.FILE834.PDS, moved to PDS/SAMPLES.xmi
+2025-04-15 05:57:40.877557 - Received SBGOLOB.SAMPLES.FILE834 from SAMPLES.xmi 
+2025-04-15 05:57:40.878041 - Found DSLIST.bin (application/octet-stream) in SBGOLOB.SAMPLES.FILE834, moved to SAMPLES/DSLIST
+2025-04-15 05:57:40.878216 - Found DSLIST2.bin (application/octet-stream) in SBGOLOB.SAMPLES.FILE834, moved to SAMPLES/DSLIST2
+2025-04-15 05:57:40.878521 - Found SETREPL.txt (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/SETREPL
+2025-04-15 05:57:40.878691 - Found VIEWPOOL.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/VIEWPOOL
+2025-04-15 05:57:40.878862 - Found WHATCHA.rexx (text/plain) in CBT.V508.FILE834.PDS, moved to PDS/WHATCHA
